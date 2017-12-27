@@ -1,0 +1,25 @@
+body {
+	font-family: arial;
+	background: url(https://s.w.org/images/core/emoji/2.3/svg/1f171.svg);
+	background-repeat: no-repeat; 
+	background-size: cover;
+}
+
+h1{
+	color:rgba(250,235,215, .5);
+	border: 5px dashed black;
+
+}
+li{
+	border: 2px solid blue;
+	color: antiquewhite;
+}
+#special {
+	color:white;
+}
+#dankman {
+	color:black  ;
+}
+.twothree{
+	text-decoration: line-through;
+}
