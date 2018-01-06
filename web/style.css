@@ -1,6 +1,6 @@
 body {
 	font-family: arial;
-	background: url(https://s.w.org/images/core/emoji/2.3/svg/1f171.svg);
+	background: url(https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2015/06/Udacity.jpg);
 	background-repeat: no-repeat; 
 	background-size: cover;
 }
@@ -12,7 +12,7 @@ h1{
 }
 li{
 	border: 2px solid blue;
-	color: antiquewhite;
+	color: purple;
 }
 #special {
 	color:white;
